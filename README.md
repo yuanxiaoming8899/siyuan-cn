@@ -1,158 +1,162 @@
-<p align="center">
-<img alt="SiYuan" src="https://b3log.org/images/brand/siyuan-128.png">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7c38d5243854888831f452f706aee12110df960c0e73015482239e211b19b58f/68747470733a2f2f62336c6f672e6f72672f696d616765732f6272616e642f73697975616e2d3132382e706e67"><img alt="思源" src="https://camo.githubusercontent.com/7c38d5243854888831f452f706aee12110df960c0e73015482239e211b19b58f/68747470733a2f2f62336c6f672e6f72672f696d616765732f6272616e642f73697975616e2d3132382e706e67" data-canonical-src="https://b3log.org/images/brand/siyuan-128.png" style="max-width: 100%;"></a>
+<br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+重构你的思维
+</font></font><br><br>
+<a title="构建状态" href="https://github.com/siyuan-note/siyuan/actions/workflows/ci.yml"><img src="https://camo.githubusercontent.com/a7d17b9740b3ee92f4c527553631e050494dcd70e7c7130ad926c4f0b22879cc/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f616374696f6e732f776f726b666c6f772f7374617475732f73697975616e2d6e6f74652f73697975616e2f63642e796d6c3f7374796c653d666c61742d737175617265" data-canonical-src="https://img.shields.io/github/actions/workflow/status/siyuan-note/siyuan/cd.yml?style=flat-square" style="max-width: 100%;"></a>
+<a title="发布" href="https://github.com/siyuan-note/siyuan/releases"><img src="https://camo.githubusercontent.com/465bb8b5571ee893e9f5d994e9739b9ca0460ea790bb4283ffead40920e209f9/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f73697975616e2d6e6f74652f73697975616e2e7376673f7374796c653d666c61742d73717561726526636f6c6f723d394346" data-canonical-src="https://img.shields.io/github/release/siyuan-note/siyuan.svg?style=flat-square&amp;color=9CF" style="max-width: 100%;"></a>
+<a title="下载" href="https://github.com/siyuan-note/siyuan/releases"><img src="https://camo.githubusercontent.com/64b7a54e997ecda7c6467765c8343efb41bf212ba65a076d1fe69da7522e4789/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f73697975616e2d6e6f74652f73697975616e2f746f74616c2e7376673f7374796c653d666c61742d73717561726526636f6c6f723d626c756576696f6c6574" data-canonical-src="https://img.shields.io/github/downloads/siyuan-note/siyuan/total.svg?style=flat-square&amp;color=blueviolet" style="max-width: 100%;"></a>
 <br>
-Refactor your thinking
+<a title="Docker 拉取" href="https://hub.docker.com/r/b3log/siyuan" rel="nofollow"><img src="https://camo.githubusercontent.com/bc902964f3e52a49bcd682f73095fe5634ba8dd19704f6ba8259cac58922dc33/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f70756c6c732f62336c6f672f73697975616e2e7376673f7374796c653d666c61742d73717561726526636f6c6f723d677265656e" data-canonical-src="https://img.shields.io/docker/pulls/b3log/siyuan.svg?style=flat-square&amp;color=green" style="max-width: 100%;"></a>
+<a title="Docker 镜像大小" href="https://hub.docker.com/r/b3log/siyuan" rel="nofollow"><img src="https://camo.githubusercontent.com/d60bcc6fd588141124fa3a3663560702fee6193840759675ed0057628f1bf889/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f696d6167652d73697a652f62336c6f672f73697975616e2e7376673f7374796c653d666c61742d73717561726526636f6c6f723d666639366234" data-canonical-src="https://img.shields.io/docker/image-size/b3log/siyuan.svg?style=flat-square&amp;color=ff96b4" style="max-width: 100%;"></a>
+<a title="点击次数" href="https://github.com/siyuan-note/siyuan"><img src="https://camo.githubusercontent.com/2b89e60bec4d5570ddc4f485e8e68d9b9388aef0f3a8641e06ca6ecda673b5be/68747470733a2f2f686974732e62336c6f672e6f72672f73697975616e2d6e6f74652f73697975616e2e737667" data-canonical-src="https://hits.b3log.org/siyuan-note/siyuan.svg" style="max-width: 100%;"></a>
+<br>
+<a title="AGPLv3" href="https://www.gnu.org/licenses/agpl-3.0.txt" rel="nofollow"><img src="https://camo.githubusercontent.com/5bb837abbce68b1aa88b3080e45875cf161d55c08d555bb20519da9bb01d3d17/687474703a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4147504c76332d6f72616e67652e7376673f7374796c653d666c61742d737175617265" data-canonical-src="http://img.shields.io/badge/license-AGPLv3-orange.svg?style=flat-square" style="max-width: 100%;"></a>
+<a title="代码大小" href="https://github.com/siyuan-note/siyuan"><img src="https://camo.githubusercontent.com/8b08e758e01d285ab36f594a524b531beb784ba5111a1028dfbe6dee30bc84b6/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f636f64652d73697a652f73697975616e2d6e6f74652f73697975616e2e7376673f7374796c653d666c61742d73717561726526636f6c6f723d79656c6c6f77" data-canonical-src="https://img.shields.io/github/languages/code-size/siyuan-note/siyuan.svg?style=flat-square&amp;color=yellow" style="max-width: 100%;"></a>
+<a title="GitHub 拉取请求" href="https://github.com/siyuan-note/siyuan/pulls"><img src="https://camo.githubusercontent.com/1096f44acd0a5a5733dc3d575f4e9e55580a42c00b28d68df6e74211358388f3/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722d636c6f7365642f73697975616e2d6e6f74652f73697975616e2e7376673f7374796c653d666c61742d73717561726526636f6c6f723d464639393636" data-canonical-src="https://img.shields.io/github/issues-pr-closed/siyuan-note/siyuan.svg?style=flat-square&amp;color=FF9966" style="max-width: 100%;"></a>
+<br>
+<a title="GitHub 提交" href="https://github.com/siyuan-note/siyuan/commits/master"><img src="https://camo.githubusercontent.com/74d2d8a2b44984ac864b50a77bb6beecf478a3a9370005fafecacac8ca33d4a8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6d6d69742d61637469766974792f6d2f73697975616e2d6e6f74652f73697975616e2e7376673f7374796c653d666c61742d737175617265" data-canonical-src="https://img.shields.io/github/commit-activity/m/siyuan-note/siyuan.svg?style=flat-square" style="max-width: 100%;"></a>
+<a title="最后一次提交" href="https://github.com/siyuan-note/siyuan/commits/master"><img src="https://camo.githubusercontent.com/688933bd213c87ac8808535f63599dabc8f205bde02e33c5d50c61bca3f4f399/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f73697975616e2d6e6f74652f73697975616e2e7376673f7374796c653d666c61742d73717561726526636f6c6f723d464639393030" data-canonical-src="https://img.shields.io/github/last-commit/siyuan-note/siyuan.svg?style=flat-square&amp;color=FF9900" style="max-width: 100%;"></a>
 <br><br>
-<a title="Build Status" target="_blank" href="https://github.com/siyuan-note/siyuan/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/siyuan-note/siyuan/cd.yml?style=flat-square"></a>
-<a title="Releases" target="_blank" href="https://github.com/siyuan-note/siyuan/releases"><img src="https://img.shields.io/github/release/siyuan-note/siyuan.svg?style=flat-square&color=9CF"></a>
-<a title="Downloads" target="_blank" href="https://github.com/siyuan-note/siyuan/releases"><img src="https://img.shields.io/github/downloads/siyuan-note/siyuan/total.svg?style=flat-square&color=blueviolet"></a>
-<br>
-<a title="Docker Pulls" target="_blank" href="https://hub.docker.com/r/b3log/siyuan"><img src="https://img.shields.io/docker/pulls/b3log/siyuan.svg?style=flat-square&color=green"></a>
-<a title="Docker Image Size" target="_blank" href="https://hub.docker.com/r/b3log/siyuan"><img src="https://img.shields.io/docker/image-size/b3log/siyuan.svg?style=flat-square&color=ff96b4"></a>
-<a title="Hits" target="_blank" href="https://github.com/siyuan-note/siyuan"><img src="https://hits.b3log.org/siyuan-note/siyuan.svg"></a>
-<br>
-<a title="AGPLv3" target="_blank" href="https://www.gnu.org/licenses/agpl-3.0.txt"><img src="http://img.shields.io/badge/license-AGPLv3-orange.svg?style=flat-square"></a>
-<a title="Code Size" target="_blank" href="https://github.com/siyuan-note/siyuan"><img src="https://img.shields.io/github/languages/code-size/siyuan-note/siyuan.svg?style=flat-square&color=yellow"></a>
-<a title="GitHub Pull Requests" target="_blank" href="https://github.com/siyuan-note/siyuan/pulls"><img src="https://img.shields.io/github/issues-pr-closed/siyuan-note/siyuan.svg?style=flat-square&color=FF9966"></a>
-<br>
-<a title="GitHub Commits" target="_blank" href="https://github.com/siyuan-note/siyuan/commits/master"><img src="https://img.shields.io/github/commit-activity/m/siyuan-note/siyuan.svg?style=flat-square"></a>
-<a title="Last Commit" target="_blank" href="https://github.com/siyuan-note/siyuan/commits/master"><img src="https://img.shields.io/github/last-commit/siyuan-note/siyuan.svg?style=flat-square&color=FF9900"></a>
+<a title="推特" href="https://twitter.com/b3logos" rel="nofollow"><img alt="推特关注" src="https://camo.githubusercontent.com/d8ec49aa0642d6a33f3ba662b65f119898cc4f76b15e343d4b3bcf315fc51849/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f62336c6f676f733f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c" data-canonical-src="https://img.shields.io/twitter/follow/b3logos?label=Follow&amp;style=social" style="max-width: 100%;"></a>
 <br><br>
-<a title="Twitter" target="_blank" href="https://twitter.com/b3logos"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/b3logos?label=Follow&style=social"></a>
-<br><br>
-<a href="https://www.producthunt.com/posts/siyuan?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-siyuan" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=394475&theme=light" alt="SiYuan - WYSIWYG&#0032;Block&#0032;Ref&#0032;E2EE&#0032;Sync&#0032;Local&#0045;first | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://www.producthunt.com/posts/siyuan?utm_source=badge-featured&amp;utm_medium=badge&amp;utm_souce=badge-siyuan" rel="nofollow"><img src="https://camo.githubusercontent.com/b6a6ae967ae3c4745a92cb830df2c2f7515728251e78602188a4c9018ee3ac81/68747470733a2f2f6170692e70726f6475637468756e742e636f6d2f776964676574732f656d6265642d696d6167652f76312f66656174757265642e7376673f706f73745f69643d333934343735267468656d653d6c69676874" alt="思源 - 所见即所得块参考 E2EE 同步本地优先 |  产品搜寻" style="width: 250px; height: 54px; max-width: 100%;" width="250" height="54" data-canonical-src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=394475&amp;theme=light"></a>
 </p>
-
-<p align="center">
-<a href="README_zh_CN.md">中文</a>
+<p align="center" dir="auto">
+<a href="/siyuan-note/siyuan/blob/master/README_zh_CN.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中文</font></font></a>
 </p>
-
-## 💡 Introduction
-
-SiYuan is a privacy-first personal knowledge management system, support fine-grained block-level reference and Markdown
-WYSIWYG.
-
-Welcome to [SiYuan English Discussion Forum](https://liuyun.io) to learn more.
-
-![feature0.png](https://b3logfile.com/file/2024/01/feature0-1orBRlI.png)
-
-## 🔮 Features
-
-Most features are free, even for commercial use.
-
-* Content block
-  * Block-level reference and two-way links
-  * Custom attributes
-  * SQL query embed
-  * Protocol `siyuan://`
-* Editor
-  * Block-style
-  * Markdown WYSIWYG
-  * List outline
-  * Block zoom-in
-  * Block horizontal layout
-  * Million-word large document editing
-  * Mathematical formulas, charts, flowcharts, Gantt charts, timing charts, staffs, etc.
-  * Web clipping
-  * PDF Annotation link
-* Export
-  * Block ref and embed
-  * Standard Markdown with assets
-  * PDF, Word and HTML
-  * Copy to WeChat MP, Zhihu and Yuque
-* Database
-  * Table view
-* Spaced repetition
-* Multi-tab, drag and drop to split screen
-* Template snippet
-* JavaScript/CSS snippet
-* Android/iOS APP
-* Docker deployment
-* [API](https://github.com/siyuan-note/siyuan/blob/master/API.md)
-* Community marketplace
-
-Some features are only available to paid members, for more details please refer to [Pricing](https://b3log.org/siyuan/en/pricing.html).
-
-## 🏗️ Architecture design and open source ecosystem
-
-![SiYuan Arch](https://b3logfile.com/file/2023/05/SiYuan_Arch-Sgu8vXT.png "SiYuan Arch")
-
-* [bazzar](https://github.com/siyuan-note/bazaar): Community marketplace
-* [dejavu](https://github.com/siyuan-note/dejavu): Data repo
-* [riff](https://github.com/siyuan-note/riff): Spaced repetition system
-* [petal](https://github.com/siyuan-note/petal): Plugin API
-* [chrome](https://github.com/siyuan-note/siyuan-chrome): Chrome extension
-* [lute](https://github.com/88250/lute): A structured editor engine that supports Go and JavaScript
-* [ios](https://github.com/siyuan-note/siyuan-ios): iOS APP
-* [android](https://github.com/siyuan-note/siyuan-android): Android APP
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=siyuan-note/siyuan&type=Date)](https://star-history.com/#siyuan-note/siyuan&Date)
-
-## 🗺️ Roadmap
-
-* [SiYuan development plan and progress](https://github.com/orgs/siyuan-note/projects/1)
-* [SiYuan changelog](CHANGELOG.md)
-
-## 🚀 Download Setup
-
-It is recommended to give priority to installing through the application market on the desktop and mobile, so that you can upgrade the version with one click in the future.
-
-### App Market
-
-* [App Store](https://apps.apple.com/us/app/siyuan/id1583226508)
-* [Google Play](https://play.google.com/store/apps/details?id=org.b3log.siyuan)
-* [Microsoft Store](https://www.microsoft.com/store/apps/9P7HPMXP73K4)
-
-### Docker Hosting
-
+<h2 tabindex="-1" dir="auto"><a id="user-content--introduction" class="anchor" aria-hidden="true" tabindex="-1" href="#-introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💡简介</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">思源是一个隐私优先的个人知识管理系统，支持细粒度的块级引用和Markdown所见即所得。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">欢迎来到</font></font><a href="https://liuyun.io" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">思源英语讨论论坛</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解更多。</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f98ca1f32e836acd774b4e8ccdd2d8d7f54eadea7b3bdc8ffde5a499ca4c2e51/68747470733a2f2f62336c6f6766696c652e636f6d2f66696c652f323032342f30312f66656174757265302d316f7242526c492e706e67"><img src="https://camo.githubusercontent.com/f98ca1f32e836acd774b4e8ccdd2d8d7f54eadea7b3bdc8ffde5a499ca4c2e51/68747470733a2f2f62336c6f6766696c652e636f6d2f66696c652f323032342f30312f66656174757265302d316f7242526c492e706e67" alt="特征0.png" data-canonical-src="https://b3logfile.com/file/2024/01/feature0-1orBRlI.png" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--features" class="anchor" aria-hidden="true" tabindex="-1" href="#-features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔮特点</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大多数功能都是免费的，即使用于商业用途也是如此。</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内容块
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">块级参考和双向链接</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自定义属性</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SQL 查询嵌入</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">协议</font></font><code>siyuan://</code></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编辑
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">块式</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Markdown 所见即所得</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">列表大纲</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">块放大</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">块水平布局</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">百万字大文档编辑</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数学公式、图表、流程图、甘特图、时序图、五线谱等</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网页剪裁</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PDF注释链接</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">出口
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">块引用和嵌入</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">标准 Markdown 与资产</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PDF、Word 和 HTML</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">复制到微信MP、知乎、语雀</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">表格视图</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">间隔重复</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多选项卡、拖放分屏</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">模板片段</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JavaScript/CSS 片段</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安卓/iOS应用程序</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker部署</font></font></li>
+<li><a href="https://github.com/siyuan-note/siyuan/blob/master/API.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用程序编程接口</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区市场</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">部分功能仅供付费会员使用，更多详情请参阅</font></font><a href="https://b3log.org/siyuan/en/pricing.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">定价</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-️-architecture-design-and-open-source-ecosystem" class="anchor" aria-hidden="true" tabindex="-1" href="#️-architecture-design-and-open-source-ecosystem"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏗️架构设计和开源生态系统</font></font></h2>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1ee9776219c8ad14765946b2ae94a04f9bde8ad8edf53cdec07e578d774cf259/68747470733a2f2f62336c6f6766696c652e636f6d2f66696c652f323032332f30352f53695975616e5f417263682d536775387658542e706e67"><img src="https://camo.githubusercontent.com/1ee9776219c8ad14765946b2ae94a04f9bde8ad8edf53cdec07e578d774cf259/68747470733a2f2f62336c6f6766696c652e636f6d2f66696c652f323032332f30352f53695975616e5f417263682d536775387658542e706e67" alt="思源牌坊" title="思源牌坊" data-canonical-src="https://b3logfile.com/file/2023/05/SiYuan_Arch-Sgu8vXT.png" style="max-width: 100%;"></a></p>
+<ul dir="auto">
+<li><a href="https://github.com/siyuan-note/bazaar"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">bazzar</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> : 社区市场</font></font></li>
+<li><a href="https://github.com/siyuan-note/dejavu"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dejavu</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> : 数据仓库</font></font></li>
+<li><a href="https://github.com/siyuan-note/riff"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">riff</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：间隔重复系统</font></font></li>
+<li><a href="https://github.com/siyuan-note/petal"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">petal</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> : 插件 API</font></font></li>
+<li><a href="https://github.com/siyuan-note/siyuan-chrome"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">chrome</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> : Chrome 扩展</font></font></li>
+<li><a href="https://github.com/88250/lute"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ute</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：支持 Go 和 JavaScript 的结构化编辑器引擎</font></font></li>
+<li><a href="https://github.com/siyuan-note/siyuan-ios"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ios</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：iOS应用程序</font></font></li>
+<li><a href="https://github.com/siyuan-note/siyuan-android"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安卓</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：安卓应用程序</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content--star-history" class="anchor" aria-hidden="true" tabindex="-1" href="#-star-history"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌟 明星历史</font></font></h2>
+<p dir="auto"><a href="https://star-history.com/#siyuan-note/siyuan&amp;Date" rel="nofollow"><img src="https://camo.githubusercontent.com/8ed11e379e630fc3d8e90c942613067ed62a77fb9009f6b4ff7144e9b524afb3/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d73697975616e2d6e6f74652f73697975616e26747970653d44617465" alt="明星历史图" data-canonical-src="https://api.star-history.com/svg?repos=siyuan-note/siyuan&amp;type=Date" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-️-roadmap" class="anchor" aria-hidden="true" tabindex="-1" href="#️-roadmap"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🗺️路线图</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/orgs/siyuan-note/projects/1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">思源发展规划及进展</font></font></a></li>
+<li><a href="/siyuan-note/siyuan/blob/master/CHANGELOG.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">思源变更日志</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content--download-setup" class="anchor" aria-hidden="true" tabindex="-1" href="#-download-setup"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚀 下载安装程序</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">建议桌面端和移动端优先通过应用市场安装，方便日后一键升级版本。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-app-market" class="anchor" aria-hidden="true" tabindex="-1" href="#app-market"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用市场</font></font></h3>
+<ul dir="auto">
+<li><a href="https://apps.apple.com/us/app/siyuan/id1583226508" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用商店</font></font></a></li>
+<li><a href="https://play.google.com/store/apps/details?id=org.b3log.siyuan" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">谷歌游戏</font></font></a></li>
+<li><a href="https://www.microsoft.com/store/apps/9P7HPMXP73K4" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">微软商店</font></font></a></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-docker-hosting" class="anchor" aria-hidden="true" tabindex="-1" href="#docker-hosting"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker 托管</font></font></h3>
 <details>
-<summary>Docker Deployment</summary>
-
-#### Overview
-
-The easiest way to serve SiYuan on a server is to deploy it through Docker.
-
-* Image name `b3log/siyuan`
-* [Image URL](https://hub.docker.com/r/b3log/siyuan)
-
-#### File structure
-
-The overall program is located under `/opt/siyuan/`, which is basically the structure under the resources folder of the Electron installation package:
-
-* appearance: icon, theme, languages
-* guide: user guide document
-* stage: interface and static resources
-* kernel: kernel program
-
-#### Entrypoint
-
-The entry point is set when building the Docker image: `ENTRYPOINT ["/opt/siyuan/kernel" ]`, use `docker run b3log/siyuan` with parameters to start:
-
-* `--workspace`: Specifies the workspace folder path, mounted to the container via `-v` on the host
-* `--accessAuthCode`: Specifies the access authorization code
-
-More parameters can refer to `--help`. The following is an example of a startup command:
-
-```
-docker run -d -v workspace_dir_host:workspace_dir_container -p 6806:6806 b3log/siyuan --workspace=workspace_dir_container --accessAuthCode=xxx
-```
-
-* `workspace_dir_host`: The workspace folder path on the host
-* `workspace_dir_container`: The path of the workspace folder in the container, which is the same as specified in `--workspace`
-* `accessAuthCode`: Access authorization code, please **be sure to modify**, otherwise anyone can read and write your data
-
-To simplify, it is recommended to configure the workspace folder path to be consistent on the host and container, such as: `workspace_dir_host` and `workspace_dir_container` are configured as `/siyuan/workspace`, the corresponding startup commands is:
-
-```
-docker run -d -v /siyuan/workspace:/siyuan/workspace -p 6806:6806 -u 1000:1000 b3log/siyuan --workspace=/siyuan/workspace/ --accessAuthCode=xxx
-```
-
-Alternatively, see below for an example Docker Compose file:
-
-```
-version: "3.9"
+<summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker部署</font></font></summary>
+<h4 tabindex="-1" dir="auto"><a id="user-content-overview" class="anchor" aria-hidden="true" tabindex="-1" href="#overview"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">概述</font></font></h4>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在服务器上提供思源服务的最简单方法是通过 Docker 进行部署。</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图片名称</font></font><code>b3log/siyuan</code></li>
+<li><a href="https://hub.docker.com/r/b3log/siyuan" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图片网址</font></font></a></li>
+</ul>
+<h4 tabindex="-1" dir="auto"><a id="user-content-file-structure" class="anchor" aria-hidden="true" tabindex="-1" href="#file-structure"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件结构</font></font></h4>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">整体程序位于下</font></font><code>/opt/siyuan/</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，基本上就是Electron安装包的resources文件夹下的结构：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">外观：图标、主题、语言</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">指南：用户指南文档</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">stage：接口和静态资源</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内核：内核程序</font></font></li>
+</ul>
+<h4 tabindex="-1" dir="auto"><a id="user-content-entrypoint" class="anchor" aria-hidden="true" tabindex="-1" href="#entrypoint"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入口点</font></font></h4>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建 Docker 镜像时设置入口点：</font></font><code>ENTRYPOINT ["/opt/siyuan/kernel" ]</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，使用</font></font><code>docker run b3log/siyuan</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">带参数启动：</font></font></p>
+<ul dir="auto">
+<li><code>--workspace</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：指定工作空间文件夹路径，通过</font></font><code>-v</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主机上挂载到容器</font></font></li>
+<li><code>--accessAuthCode</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：指定访问授权码</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更多参数可以参考</font></font><code>--help</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">以下是启动命令的示例：</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>docker run -d -v workspace_dir_host:workspace_dir_container -p 6806:6806 b3log/siyuan --workspace=workspace_dir_container --accessAuthCode=xxx
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="docker run -d -v workspace_dir_host:workspace_dir_container -p 6806:6806 b3log/siyuan --workspace=workspace_dir_container --accessAuthCode=xxx" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<ul dir="auto">
+<li><code>workspace_dir_host</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：主机上的工作空间文件夹路径</font></font></li>
+<li><code>workspace_dir_container</code>: The path of the workspace folder in the container, which is the same as specified in <code>--workspace</code></li>
+<li><code>accessAuthCode</code>: Access authorization code, please <strong>be sure to modify</strong>, otherwise anyone can read and write your data</li>
+</ul>
+<p dir="auto">To simplify, it is recommended to configure the workspace folder path to be consistent on the host and container, such as: <code>workspace_dir_host</code> and <code>workspace_dir_container</code> are configured as <code>/siyuan/workspace</code>, the corresponding startup commands is:</p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>docker run -d -v /siyuan/workspace:/siyuan/workspace -p 6806:6806 -u 1000:1000 b3log/siyuan --workspace=/siyuan/workspace/ --accessAuthCode=xxx
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="docker run -d -v /siyuan/workspace:/siyuan/workspace -p 6806:6806 -u 1000:1000 b3log/siyuan --workspace=/siyuan/workspace/ --accessAuthCode=xxx" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto">Alternatively, see below for an example Docker Compose file:</p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>version: "3.9"
 services:
   main:
     image: b3log/siyuan
@@ -166,143 +170,140 @@ services:
     environment:
       # A list of time zone identifiers can be found at https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
       - TZ=${TimeZone}
-```
-
-#### User permissions
-
-In the image, the normal user `siyuan` (uid 1000/gid 1000) created by default is used to start the kernel process. Therefore, when the host creates a workspace folder, please pay attention to setting the user group of the folder:  `chown -R 1000:1000 /siyuan/workspace`. The parameter `-u 1000:1000` is required when starting the container.
-
-#### Hidden port
-
-Use NGINX reverse proxy to hide port 6806, please note:
-
-* Configure WebSocket reverse proxy `/ws`
-
-#### Note
-
-* Be sure to confirm the correctness of the mounted volume, otherwise the data will be lost after the container is deleted
-* Do not use URL rewriting for redirection, otherwise there may be problems with authentication, it is recommended to configure a reverse proxy
-
-#### Limitations
-
-* Does not support desktop and mobile application connections, only supports use on browsers
-* Export to PDF, HTML and Word formats is not supported
-* Import Markdown file is not supported
-
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="version: &quot;3.9&quot;
+services:
+  main:
+    image: b3log/siyuan
+    command: ['--workspace=/siyuan/workspace/', '--accessAuthCode=${AuthCode}']
+    user: '1000:1000'
+    ports:
+      - 6806:6806
+    volumes:
+      - /siyuan/workspace:/siyuan/workspace
+    restart: unless-stopped
+    environment:
+      # A list of time zone identifiers can be found at https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+      - TZ=${TimeZone}" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<h4 tabindex="-1" dir="auto"><a id="user-content-user-permissions" class="anchor" aria-hidden="true" tabindex="-1" href="#user-permissions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>User permissions</h4>
+<p dir="auto">In the image, the normal user <code>siyuan</code> (uid 1000/gid 1000) created by default is used to start the kernel process. Therefore, when the host creates a workspace folder, please pay attention to setting the user group of the folder:  <code>chown -R 1000:1000 /siyuan/workspace</code>. The parameter <code>-u 1000:1000</code> is required when starting the container.</p>
+<h4 tabindex="-1" dir="auto"><a id="user-content-hidden-port" class="anchor" aria-hidden="true" tabindex="-1" href="#hidden-port"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Hidden port</h4>
+<p dir="auto">Use NGINX reverse proxy to hide port 6806, please note:</p>
+<ul dir="auto">
+<li>Configure WebSocket reverse proxy <code>/ws</code></li>
+</ul>
+<h4 tabindex="-1" dir="auto"><a id="user-content-note" class="anchor" aria-hidden="true" tabindex="-1" href="#note"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Note</h4>
+<ul dir="auto">
+<li>Be sure to confirm the correctness of the mounted volume, otherwise the data will be lost after the container is deleted</li>
+<li>Do not use URL rewriting for redirection, otherwise there may be problems with authentication, it is recommended to configure a reverse proxy</li>
+</ul>
+<h4 tabindex="-1" dir="auto"><a id="user-content-limitations" class="anchor" aria-hidden="true" tabindex="-1" href="#limitations"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Limitations</h4>
+<ul dir="auto">
+<li>Does not support desktop and mobile application connections, only supports use on browsers</li>
+<li>Export to PDF, HTML and Word formats is not supported</li>
+<li>Import Markdown file is not supported</li>
+</ul>
 </details>
-
-### Installation Package
-
-* [B3log](https://b3log.org/siyuan/en/download.html)
-* [GitHub](https://github.com/siyuan-note/siyuan/releases)
-
-### Insider Preview
-
-We release insider preview before major updates, please visit [https://github.com/siyuan-note/insider](https://github.com/siyuan-note/insider).
-
-## 🏘️ Community
-
-* [English Discussion Forum](https://liuyun.io)
-* [User community summary](https://liuyun.io/article/1687779743723)
-* [Awesome SiYuan](https://github.com/siyuan-note/awesome)
-
-## 🛠️ Development Guide
-
-See [Development Guide](https://github.com/siyuan-note/siyuan/blob/master/.github/CONTRIBUTING.md).
-
-## ❓ FAQ
-
-### How does SiYuan store data?
-
-The data is saved in the workspace folder, in the workspace data folder:
-
-* `assets` is used to save all inserted assets
-* `emojis` is used to save emoji images
-* `snippets` is used to save code snippets
-* `storage` is used to save query conditions, layouts and flashcards, etc.
-* `templates` is used to save template snippets
-* `widgets` is used to save widgets
-* `plugins` is used to save plugins
-* `public` is used to save public data
-* The rest of the folders are the notebook folders created by the user, files with the suffix of `.sy` in the notebook folder are used to save the document data, and the data format is JSON
-
-### Does it support data synchronization through a third-party sync disk?
-
-Data synchronization through third-party synchronization disks is not supported, otherwise data may be corrupted.
-
-Although it does not support third-party sync disks, it supports connect with third-party cloud storage (Member's privileges).
-
-In addition, you can also consider manually exporting and importing data to achieve data synchronization:
-
-* Desktop: <kbd>Settings</kbd> - <kbd>Export</kbd> - <kbd>Export Data</kbd> / <kbd>Import Data</kbd>
-* Mobile: <kbd>Right column</kbd> - <kbd>About</kbd> - <kbd>Export Data</kbd> / <kbd>Import Data</kbd>
-
-### Is SiYuan open source?
-
-SiYuan is completely open source, and contributions are welcome:
-
-* [User Interface and Kernel](https://github.com/siyuan-note/siyuan)
-* [Android](https://github.com/siyuan-note/siyuan-android)
-* [iOS](https://github.com/siyuan-note/siyuan-ios)
-* [Chrome Clipping Extension](https://github.com/siyuan-note/siyuan-chrome)
-
-For more details, please refer to [Development Guide](https://github.com/siyuan-note/siyuan/blob/master/.github/CONTRIBUTING.md).
-
-### How to upgrade to a new version?
-
-* If installed via app store, please update via app store
-* If it is installed through the installation package on the desktop, you can open the option of <kbd>Settings</kbd> - <kbd>About</kbd> - <kbd>Automatically download update installation package</kbd>, so that SiYuan will automatically download The latest version of the installation package and prompts to install
-* If it is installed by manual installation package, please download the installation package again to install
-
-You can <kbd>Check update</kbd> in <kbd>Settings</kbd> - <kbd>About</kbd> - <kbd>Current Version</kbd>, or pay attention to [Official Download](https://b3log.org/siyuan/en/download.html) or [GitHub Releases](https://github.com/siyuan-note/siyuan/releases) to get the new version.
-
-### Is there any note for deleting docs?
-
-After deletion, the doc will not appear in the operating system's recycle bin, but will be deleted directly. When deleted, SiYuan will generate data history.
-
-### How can I just wrap and not start a new paragraph?
-
-Please use <kbd>Shift+Enter</kbd>.
-
-### What if some blocks (such as paragraph blocks in list items) cannot find the block icon?
-
-The first sub-block under the list item is the block icon omitted. You can move the cursor into this block and trigger its block menu with <kbd>Ctrl+/</kbd> .
-
-### How to share notes?
-
-* Share document to Liandi
-* Export and import `.sy.zip` package
-* Via network hosting
-* Export and import Markdown
-* <kbd>Export Preview</kbd> to copy to third-party online services
-
-### What should I do if the data repo key is lost?
-
-* If the data repo key is correctly initialized on multiple devices before, the key is the same on all devices and can be set in <kbd>Settings</kbd> - <kbd>About</kbd> - <kbd>Data repo key</kbd> - <kbd>Copy key string</kbd> retrieve
-* If it has not been configured correctly before (for example, the keys on multiple devices are inconsistent) or all devices are unavailable and the key string cannot be obtained, you can reset the key by following the steps below:
-
-  1. Manually back up the data, you can use <kbd>Export Data</kbd> or directly copy the <kbd>workspace/data/</kbd> folder on the file system
-  2. <kbd>Settings</kbd> - <kbd>About</kbd> - <kbd>Data rep key</kbd> - <kbd>Reset data repo</kbd>
-  3. Reinitialize the data repo key. After initializing the key on one device, other devices import the key
-  4. The cloud uses the new synchronization directory, the old synchronization directory is no longer available and can be deleted
-  5. The existing cloud snapshots are no longer available and can be deleted
-
-### Do I need to pay for it?
-
-Most features are free, even for commercial use.
-
-Member's privileges can only be used after payment, please refer to [Pricing](https://b3log.org/siyuan/en/pricing.html).
-
-## 🙏 Acknowledgement
-
-The birth of SiYuan is inseparable from many open source projects and contributors, please refer to the project source code kernel/go.mod, app/package.json and project homepage.
-
-The growth of SiYuan is inseparable from user feedback and promotion, thank you for everyone's help to SiYuan ❤️
-
-### Contributors
-
-Welcome to join us and contribute code to SiYuan together.
-
+<h3 tabindex="-1" dir="auto"><a id="user-content-installation-package" class="anchor" aria-hidden="true" tabindex="-1" href="#installation-package"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装包</font></font></h3>
+<ul dir="auto">
+<li><a href="https://b3log.org/siyuan/en/download.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">B3日志</font></font></a></li>
+<li><a href="https://github.com/siyuan-note/siyuan/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub</font></font></a></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-insider-preview" class="anchor" aria-hidden="true" tabindex="-1" href="#insider-preview"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内幕预览</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们在重大更新之前发布了 Insider 预览版，请访问</font></font><a href="https://github.com/siyuan-note/insider"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/siyuan-note/insider</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-️-community" class="anchor" aria-hidden="true" tabindex="-1" href="#️-community"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏘️社区</font></font></h2>
+<ul dir="auto">
+<li><a href="https://liuyun.io" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">英语论坛</font></font></a></li>
+<li><a href="https://liuyun.io/article/1687779743723" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用户社区摘要</font></font></a></li>
+<li><a href="https://github.com/siyuan-note/awesome"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">很棒的思源</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-️-development-guide" class="anchor" aria-hidden="true" tabindex="-1" href="#️-development-guide"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🛠️开发指南</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">参见</font></font><a href="https://github.com/siyuan-note/siyuan/blob/master/.github/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--faq" class="anchor" aria-hidden="true" tabindex="-1" href="#-faq"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❓ 常见问题解答</font></font></h2>
+<h3 tabindex="-1" dir="auto"><a id="user-content-how-does-siyuan-store-data" class="anchor" aria-hidden="true" tabindex="-1" href="#how-does-siyuan-store-data"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">思源如何存储数据？</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据保存在工作区文件夹中，在工作区数据文件夹中：</font></font></p>
+<ul dir="auto">
+<li><code>assets</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于保存所有插入的资源</font></font></li>
+<li><code>emojis</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于保存表情符号图像</font></font></li>
+<li><code>snippets</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于保存代码片段</font></font></li>
+<li><code>storage</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于保存查询条件、布局和抽认卡等。</font></font></li>
+<li><code>templates</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于保存模板片段</font></font></li>
+<li><code>widgets</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于保存小部件</font></font></li>
+<li><code>plugins</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于保存插件</font></font></li>
+<li><code>public</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于保存公共数据</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">其余文件夹为用户创建的notebook文件夹，</font></font><code>.sy</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">notebook文件夹中后缀为 的文件用于保存文档数据，数据格式为JSON</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-does-it-support-data-synchronization-through-a-third-party-sync-disk" class="anchor" aria-hidden="true" tabindex="-1" href="#does-it-support-data-synchronization-through-a-third-party-sync-disk"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是否支持通过第三方同步盘进行数据同步？</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不支持通过第三方同步盘进行数据同步，否则可能导致数据损坏。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">虽然不支持第三方同步盘，但支持连接第三方云存储（会员特权）。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">另外，还可以考虑手动导出和导入数据，实现数据同步：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">桌面：</font></font><kbd>Settings</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- </font></font><kbd>Export</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- </font></font><kbd>Export Data</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">/</font></font><kbd>Import Data</kbd></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">移动的：</font></font><kbd>Right column</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- </font></font><kbd>About</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- </font></font><kbd>Export Data</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">/</font></font><kbd>Import Data</kbd></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-is-siyuan-open-source" class="anchor" aria-hidden="true" tabindex="-1" href="#is-siyuan-open-source"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">思源开源吗？</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">思源完全开源，欢迎贡献：</font></font></p>
+<ul dir="auto">
+<li><a href="https://github.com/siyuan-note/siyuan"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用户界面和内核</font></font></a></li>
+<li><a href="https://github.com/siyuan-note/siyuan-android"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安卓</font></font></a></li>
+<li><a href="https://github.com/siyuan-note/siyuan-ios"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">iOS系统</font></font></a></li>
+<li><a href="https://github.com/siyuan-note/siyuan-chrome"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chrome 剪辑扩展程序</font></font></a></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更多详情请参考</font></font><a href="https://github.com/siyuan-note/siyuan/blob/master/.github/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-how-to-upgrade-to-a-new-version" class="anchor" aria-hidden="true" tabindex="-1" href="#how-to-upgrade-to-a-new-version"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何升级到新版本？</font></font></h3>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果通过应用商店安装，请通过应用商店更新</font></font></li>
+<li><font style="vertical-align: inherit;"></font><kbd>Settings</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果是通过桌面上的安装包安装，可以打开--</font><font style="vertical-align: inherit;">选项</font><font style="vertical-align: inherit;">，思源会自动下载最新版本的安装包并提示</font></font><kbd>About</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font><kbd>Automatically download update installation package</kbd><font style="vertical-align: inherit;"></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果是手动安装包安装，请重新下载安装包安装</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以</font></font><kbd>Check update</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在</font></font><kbd>Settings</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- </font></font><kbd>About</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- </font></font><kbd>Current Version</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，或者关注</font></font><a href="https://b3log.org/siyuan/en/download.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">官方下载</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><a href="https://github.com/siyuan-note/siyuan/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub Releases</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获取新版本。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-is-there-any-note-for-deleting-docs" class="anchor" aria-hidden="true" tabindex="-1" href="#is-there-any-note-for-deleting-docs"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">删除文档有什么注意事项吗？</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">删除后，该文档不会出现在操作系统的回收站中，而是直接删除。</font><font style="vertical-align: inherit;">删除后，思源会生成历史数据。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-how-can-i-just-wrap-and-not-start-a-new-paragraph" class="anchor" aria-hidden="true" tabindex="-1" href="#how-can-i-just-wrap-and-not-start-a-new-paragraph"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我怎样才能只换行而不开始新的段落？</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请用</font></font><kbd>Shift+Enter</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-what-if-some-blocks-such-as-paragraph-blocks-in-list-items-cannot-find-the-block-icon" class="anchor" aria-hidden="true" tabindex="-1" href="#what-if-some-blocks-such-as-paragraph-blocks-in-list-items-cannot-find-the-block-icon"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果某些块（例如列表项中的段落块）找不到块图标怎么办？</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">列表项下的第一个子块是省略的块图标。</font><font style="vertical-align: inherit;">您可以将光标移动到该块中并使用 触发其块菜单</font></font><kbd>Ctrl+/</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-how-to-share-notes" class="anchor" aria-hidden="true" tabindex="-1" href="#how-to-share-notes"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何分享笔记？</font></font></h3>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分享文档给联迪</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">导出和导入</font></font><code>.sy.zip</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">包</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过网络托管</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">导出和导入 Markdown</font></font></li>
+<li><kbd>Export Preview</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">复制到第三方在线服务</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-what-should-i-do-if-the-data-repo-key-is-lost" class="anchor" aria-hidden="true" tabindex="-1" href="#what-should-i-do-if-the-data-repo-key-is-lost"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据仓库密钥丢失怎么办？</font></font></h3>
+<ul dir="auto">
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"></font><kbd>Settings</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果之前在多个设备上正确初始化了数据存储库密钥，则该密钥在所有设备上都是相同的，可以在- </font></font><kbd>About</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- </font></font><kbd>Data repo key</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font><kbd>Copy key string</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">检索</font><font style="vertical-align: inherit;">中设置</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果之前没有正确配置（例如多台设备上的密钥不一致）或者所有设备都不可用而无法获取密钥串，您可以按照以下步骤重置密钥：</font></font></p>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">手动备份数据，可以使用</font></font><kbd>Export Data</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或直接复制</font></font><kbd>workspace/data/</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件系统上的文件夹</font></font></li>
+<li><kbd>Settings</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- </font></font><kbd>About</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- </font></font><kbd>Data rep key</kbd><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font><kbd>Reset data repo</kbd></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">重新初始化数据存储库密钥。</font><font style="vertical-align: inherit;">在一台设备上初始化密钥后，其他设备导入密钥</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">云端使用新的同步目录，旧的同步目录不再可用，可以删除</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现有的云快照不再可用，可以删除</font></font></li>
+</ol>
+</li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-do-i-need-to-pay-for-it" class="anchor" aria-hidden="true" tabindex="-1" href="#do-i-need-to-pay-for-it"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我需要付费吗？</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大多数功能都是免费的，即使用于商业用途也是如此。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">会员权益需付费后才能使用，请参阅</font></font><a href="https://b3log.org/siyuan/en/pricing.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">价格表</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--acknowledgement" class="anchor" aria-hidden="true" tabindex="-1" href="#-acknowledgement"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🙏致谢</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">思源的诞生离不开众多开源项目和贡献者，请参考项目源码kernel/go.mod、app/package.json以及项目主页。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">思源的成长离不开用户的反馈和推广，感谢大家对思源的帮助❤️</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-contributors" class="anchor" aria-hidden="true" tabindex="-1" href="#contributors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献者</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">欢迎加入我们，共同为思源贡献代码。</font></font></p>
 <a href="https://github.com/siyuan-note/siyuan/graphs/contributors">
-   <img src="https://contrib.rocks/image?repo=siyuan-note/siyuan" />
+   <img src="https://camo.githubusercontent.com/b4975c8926bc8a1348043de0f5e6937c10097ac11cf78dba2bc9ade409a7d20e/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d73697975616e2d6e6f74652f73697975616e" data-canonical-src="https://contrib.rocks/image?repo=siyuan-note/siyuan" style="max-width: 100%;">
 </a>
+</article></div>
